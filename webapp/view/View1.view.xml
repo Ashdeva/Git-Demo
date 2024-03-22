@@ -9,6 +9,8 @@
                     <Input width="100%" id="input1"/>
                     <Label text="Contact" id="label1"/>
                     <Input width="100%" id="input2"/></sap.ui.layout.form:content>
+                    <Label text="Description" id="idLabel3" />
+                    <Text text = "Brand" id="input3" />
             </sap.ui.layout.form:SimpleForm>
         </content>
     </Page>
