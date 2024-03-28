@@ -12,6 +12,7 @@
                     <Label text="Description" id="idLabel3" />
                     <Text text = "Brand" id="input3" />
             </sap.ui.layout.form:SimpleForm>
+            <Button id="idButton" text="Test"></Button>
         </content>
     </Page>
 </mvc:View>
